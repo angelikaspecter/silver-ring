@@ -1,0 +1,12 @@
+.header {
+	min-height: 102px;
+	margin-bottom: 33px;
+	border-bottom: 1px solid rgba(27, 24, 25, 0.1);
+	background-color: #ffffff;
+	&__nav {
+		display: flex;
+		flex-direction: column;
+	}
+}
+
+@import "_nav";

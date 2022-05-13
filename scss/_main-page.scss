@@ -1,0 +1,10 @@
+.main-page {
+	&__promo {
+		padding-bottom: 120px;
+	}
+	&__collection {
+	}
+}
+
+@import "_promo";
+@import "_collection";
